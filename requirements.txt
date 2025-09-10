@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+reportlab
+openai
+Pillow
+mysql-connector-python
+werkzeug
+google-generativeai
